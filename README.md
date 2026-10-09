@@ -26,7 +26,20 @@ dsa-practice/
 | 242 | Valid Anagram | Sorting | [py](leetcode/0242_valid_anagram.py) |
 | 268 | Missing Number | Math | [py](leetcode/0268_missing_number.py) |
 
+Overall stats: **278 solved** (188 Easy / 85 Medium / 5 Hard), 77.0% acceptance.
+Full recent history in [leetcode/PROGRESS.md](leetcode/PROGRESS.md).
+
+## Codeforces
+| Problem | Lang | Verdict | Solution |
+|---------|------|---------|----------|
+| 750A New Year and Hurry | Python 3 | Accepted (62 ms) | [py](codeforces/750A_new_year_and_hurry.py) |
+
+## Screenshots
+- [LeetCode practice history](docs/screenshots/leetcode-practice-history-2026-10-09.png)
+- [Codeforces submissions](docs/screenshots/codeforces-submissions-2026-10-06.png)
+
 ## Up next
+- 409 Longest Palindrome (retry, last result was Wrong Answer)
 - 347 Top K Frequent Elements
 - 189 Rotate Array
 - 75 Sort Colors (Dutch flag algorithm)
